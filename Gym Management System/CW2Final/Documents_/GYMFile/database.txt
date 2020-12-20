@@ -1,0 +1,8 @@
+GYM MANAGEMENT SYSTEM
+
+   First Name                 :
+   Last Name                  :
+   Gym Number                 :
+   Commencing Date            :
+   School or Institute        :
+   Age                        :
